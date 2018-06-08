@@ -5,11 +5,11 @@
 ### Install
 
 ```bash
-composer require ailuoy/context
+composer require kenuocn/context
 
-Ailuoy\Context\ContextServiceProvider::class,
+Kenuocn\Context\ContextServiceProvider::class,
 
-'Context' => Ailuoy\Context\ContextFacade::class,
+'Context' => Kenuocn\Context\ContextFacade::class,
 ```
 
 ### Usage
